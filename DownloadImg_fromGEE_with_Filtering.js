@@ -1,3 +1,6 @@
+// this code is usde to download RS images on GEE website with filtering like date, roi, cloud, etc. this is a javascript version
+
+
 //////////////////////////////////////step 1: date and roi should be set
 //filter parameter
 var startDate = '2017-03-01';
